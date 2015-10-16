@@ -1,4 +1,4 @@
-# Learning-Management-System-the-UI-improving-experiment
+# Learning Management System the UI improving experiment
 A learning management system and performed experiments on the system to provide a better user interface.
 
 #### Features
