@@ -1,0 +1,168 @@
+{
+  "name": "COMP589",
+  "children": [
+    {
+      "name": "week1",
+      "children": [
+        {
+          "name": "discussion forum",
+          "size": 4000,
+          "type": "forum",
+          "title": "discussion forum",
+          "id": 12344
+        },
+        {
+          "name": "assignment 01",
+          "size": 5000,
+          "type": "assignment",
+          "title": "assignment 01",
+          "id": 12345
+        },
+        {
+          "name": "news-test",
+          "size": 7000,
+          "type": "test",
+          "title": "news-test",
+          "id": 12345442
+        },
+        {
+          "name": "course_pdf 01",
+          "size": 3000,
+          "type": "resource",
+          "title": "course_pdf 01",
+          "id": 123451
+        },
+        {
+          "name": "course_pdf 02",
+          "size": 3000,
+          "type": "resource",
+          "title": "course_pdf 01",
+          "id": 12345342
+        }
+      ]
+    },
+    {
+      "name": "week2",
+      "children": [
+        {
+          "name": "discussion forum",
+          "size": 4000,
+          "type": "forum",
+          "title": "discussion forum",
+          "id": 123144
+        },
+        {
+          "name": "assignment 01",
+          "size": 5000,
+          "type": "assignment",
+          "title": "assignment 01",
+          "id": 123145
+        },
+        {
+          "name": "news-test",
+          "size": 7000,
+          "type": "test",
+          "title": "news-test",
+          "id": 123425442
+        },
+        {
+          "name": "course_pdf 01",
+          "size": 3000,
+          "type": "resource",
+          "title": "course_pdf 01",
+          "id": 1233451
+        },
+        {
+          "name": "course_pdf 02",
+          "size": 3000,
+          "type": "resource",
+          "title": "course_pdf 01",
+          "id": 123445342
+        }
+      ]
+    },
+    {
+      "name": "week3",
+      "children": [
+        {
+          "name": "discussion forum",
+          "size": 4000,
+          "type": "forum",
+          "title": "discussion forum",
+          "id": 123244
+        },
+        {
+          "name": "assignment 01",
+          "size": 5000,
+          "type": "assignment",
+          "title": "assignment 01",
+          "id": 123345
+        },
+        {
+          "name": "news-test",
+          "size": 7000,
+          "type": "test",
+          "title": "news-test",
+          "id": 123454442
+        }
+      ]
+    },
+    {
+      "name": "week4",
+      "children": [
+        {
+          "name": "discussion forum",
+          "size": 4000,
+          "type": "forum",
+          "title": "discussion forum",
+          "id": 123244
+        },
+        {
+          "name": "assignment 01",
+          "size": 5000,
+          "type": "assignment",
+          "title": "assignment 01",
+          "id": 121345
+        },
+        {
+          "name": "news-test",
+          "size": 7000,
+          "type": "test",
+          "title": "news-test",
+          "id": 123452442
+        }
+      ]
+    },
+    {
+      "name": "week5",
+      "children": [
+        {
+          "name": "discussion forum",
+          "size": 4000,
+          "type": "forum",
+          "title": "discussion forum",
+          "id": 123344
+        },
+        {
+          "name": "assignment 01",
+          "size": 5000,
+          "type": "assignment",
+          "title": "assignment 01",
+          "id": 123645
+        }
+      ]
+    },
+    {
+      "name": "week6",
+      "children": []
+    },
+    {
+      "name": "week7",
+      "children": []
+    },
+    {
+      "name": "week8",
+      "children": []
+    }
+  ]
+}

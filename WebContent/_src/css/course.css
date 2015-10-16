@@ -1,0 +1,47 @@
+
+.chart {
+  display: block;
+  margin: auto;
+  margin-top: 10px;
+  font-size: 16px;
+}
+
+rect {
+  cursor: pointer;
+  stroke: #eee;
+  fill: #aaa;
+  fill-opacity: .8;
+}
+
+rect.parent {
+  cursor: crosshair;
+  fill: steelblue;
+}
+
+rect.assignment {
+  cursor: pointer;
+  fill: steelblue;
+  fill-opacity: .6;
+}
+
+rect.resource {
+  cursor: pointer;
+  fill: steelblue;
+  fill-opacity: .6;
+}
+
+rect.test {
+  cursor: pointer;
+  fill: steelblue;
+  fill-opacity: .6;
+}
+
+rect.forum {
+  cursor: pointer;
+  fill: steelblue;
+  fill-opacity: .6;
+}
+
+text {
+  pointer-events: none;
+}
