@@ -11,8 +11,8 @@ Find out how they can be improved by experimenting new tools and methods.
 * forums
 
 #### Structures
-* client-serve
-* server-database
+* client - server
+* server - database
 * Flat structure design, single page (similar to Facebook or Tumblr)
 
 #### Technologies
