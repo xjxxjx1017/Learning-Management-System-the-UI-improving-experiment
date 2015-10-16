@@ -1,5 +1,9 @@
-# Learning Management System
-A learning management system and performed experiments on the system to provide a better user interface.
+## A Learning Management System for Experimenting with Different Tools and Methods for the User Interface
+Try to investigate that why the user interfaces of Moodle and Blackboard are out dated.
+
+Developing a learning management system from strach with basic features.
+
+Find out how they can be improved by experimenting new tools and methods.
 
 #### Features
 * user privilege management
